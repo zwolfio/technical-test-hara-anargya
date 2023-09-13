@@ -6,7 +6,7 @@
 * invite @akbarism sebagai maintainer
   
 ## Tugas 1
-Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0)
+Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0) (Gunakan Composistion API!)
 
 1. Gunakan Tailwind CSS untuk styling
 2. pada tabel `User List` gunakan data dari endpoint [https://api.slingacademy.com/v1/sample-data/users](https://api.slingacademy.com/v1/sample-data/users)
