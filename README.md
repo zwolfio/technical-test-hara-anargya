@@ -27,4 +27,9 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 2. Buatkah fungsi untuk mengembalikan `nama` provinsi berdasakrkan id kota
 3. Buatlah fungsi untuk mengurutkan array provinsi berdasarkan id & nama provinsi (asc/desc)
 4. Buat UI dari ke 3 fungsi diatas
- 
+   
+ ## Pengumpulan Tugas
+ kirim link repositori ke email [dev@anargya.co.id]()
+
+ Jika ada pertanyaan, silakan open issue pada repo ini ya!
+ <b>Happy Coding!</b>
