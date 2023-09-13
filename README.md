@@ -2,8 +2,8 @@
 
 ## Installation
 * Fork Repo ini
-* Jadikan Private
-* invite @akbarism sebagai maintainer
+* Clone Repo ini
+* `npm i`
   
 ## Tugas 1
 Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0) (Gunakan Composistion API!)
