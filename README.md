@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+# Technical Test Frontend Hara Anargya
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Installation
+* Fork Repo ini
+* Jadikan Private
+* invite @akbarism sebagai maintainer
+  
+## Tugas 1
+Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0)
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. Gunakan Tailwind CSS untuk styling
+2. pada tabel `User List` gunakan data dari endpoint [https://api.slingacademy.com/v1/sample-data/users](https://api.slingacademy.com/v1/sample-data/users)
+3. Buat komponen dialog(pop up) yang resusable 
+4. munculkan dialog ketika klik button `view detail` pada table
+5. tampilkan informasi user yang dipilih pada dialog
+   
+### Ketentuan lainya
+* gunakan v-if/v-show, props, emit
+* pada komponen dialog, gunakan tag `<transition>`
+* baca komentar pada mockup untuk informasi detail lainya
