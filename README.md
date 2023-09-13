@@ -20,16 +20,15 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 * baca komentar pada [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0) untuk informasi detail lainya
 
   
- - - - -
  ## Tugas 2
  diberikan 2 file js yaitu province.js dan city.js
 1. Buatlah fungsi yang menerima id provinsi dan mengembalikan daftar kota berdasarkan id provinsi tersebut
-2. Buatkah fungsi untuk mengembalikan `nama` provinsi berdasakrkan id kota
+2. Buatlah fungsi untuk mengembalikan `nama` provinsi berdasakrkan id kota
 3. Buatlah fungsi untuk mengurutkan array provinsi berdasarkan id & nama provinsi (asc/desc)
 4. Buat UI dari ke 3 fungsi diatas
    
  ## Pengumpulan Tugas
- kirim link repositori ke email [dev@anargya.co.id]()
+ kirim link repository ke email [dev@anargya.co.id]()
 
  Jika ada pertanyaan, silakan open issue pada repo ini ya!
  <b>Happy Coding!</b>
