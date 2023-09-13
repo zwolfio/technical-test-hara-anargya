@@ -1,7 +1,34 @@
-# Vue 3 + Vite
+# Technical Test Frontend Hara Anargya
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Installation
+* Fork Repo ini
+* Clone Repo ini
+* `npm i`
+  
+## Tugas 1
+Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0) (Gunakan Composistion API!)
 
-## Recommended IDE Setup
+1. Gunakan Tailwind CSS untuk styling
+2. pada tabel `User List` gunakan data dari endpoint [https://api.slingacademy.com/v1/sample-data/users](https://api.slingacademy.com/v1/sample-data/users)
+3. Buat komponen dialog(pop up) yang reusable 
+4. munculkan dialog ketika klik button `view detail` pada table dan tampilkan informasi user yang dipilih pada dialog
+   
+### Ketentuan lainya
+* manfaatkan v-if/v-show, props, emit
+* tidak diperkenankan untuk menambah/menginstall package lainya
+* pada komponen dialog, gunakan tag `<transition>`
+* baca komentar pada [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0) untuk informasi detail lainya
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+  
+ ## Tugas 2
+ diberikan 2 file js yaitu province.js dan city.js
+1. Buatlah fungsi yang menerima id provinsi dan mengembalikan daftar kota berdasarkan id provinsi tersebut
+2. Buatlah fungsi untuk mengembalikan `nama` provinsi berdasakrkan id kota
+3. Buatlah fungsi untuk mengurutkan array provinsi berdasarkan id & nama provinsi (asc/desc)
+4. Buat UI dari ke 3 fungsi diatas
+   
+ ## Pengumpulan Tugas
+ kirim link repository ke email [dev@anargya.co.id]()
+
+ Jika ada pertanyaan, silakan open issue pada repo ini ya!
+ <b>Happy Coding! 🔥</b>
