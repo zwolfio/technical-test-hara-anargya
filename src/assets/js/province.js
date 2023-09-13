@@ -190,3 +190,5 @@ let province = [
     wilayah_id: 38,
   },
 ];
+
+export default province;
