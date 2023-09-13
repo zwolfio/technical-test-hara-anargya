@@ -31,4 +31,4 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
  kirim link repository ke email [dev@anargya.co.id]()
 
  Jika ada pertanyaan, silakan open issue pada repo ini ya!
- <b>Happy Coding!</b>
+ <b>Happy Coding! 🔥</b>
