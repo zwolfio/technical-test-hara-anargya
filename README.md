@@ -21,7 +21,7 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 
   
  ## Tugas 2
- diberikan 2 file js yaitu province.js dan city.js
+ diberikan 2 file js yaitu province.js dan city.js (didalam project)
 1. Buatlah fungsi yang menerima id provinsi dan mengembalikan daftar kota berdasarkan id provinsi tersebut
 2. Buatlah fungsi untuk mengembalikan `nama` provinsi berdasakrkan id kota
 3. Buatlah fungsi untuk mengurutkan array provinsi berdasarkan id & nama provinsi (asc/desc)
