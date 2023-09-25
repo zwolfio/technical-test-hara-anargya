@@ -28,6 +28,7 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 4. Buat UI dari ke 3 fungsi diatas
    
  ## Pengumpulan Tugas
+ Tulis nama lengkap dan email pada readme.md repository yang di fork.
  kirim link repository ke email [dev@anargya.co.id]()
 
  Jika ada pertanyaan, silakan open issue pada repo ini ya!
