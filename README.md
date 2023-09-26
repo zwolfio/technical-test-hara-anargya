@@ -25,7 +25,7 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 1. Buatlah fungsi yang menerima id provinsi dan mengembalikan daftar kota berdasarkan id provinsi tersebut
 2. Buatlah fungsi untuk mengembalikan `nama` provinsi berdasakrkan id kota
 3. Buatlah fungsi untuk mengurutkan array provinsi berdasarkan id & nama provinsi (asc/desc)
-4. Buat UI dari ke 3 fungsi diatas
+4. Buat UI dari ke 3 fungsi diatas dihalaman Overview, buat design sendiri sebagus mungkin. pamerkan skill anda sebagai frontend developer
    
  ## Pengumpulan Tugas
  Tulis nama lengkap dan email pada readme.md repository yang di fork.
