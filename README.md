@@ -15,7 +15,7 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
    
 ### Ketentuan lainya
 * manfaatkan v-if/v-show, props, emit
-* tidak diperkenankan untuk menambah/menginstall package lainya, maanfaktakn package yang sudah ada di package.json
+* tidak diperkenankan untuk menambah/menginstall package/plugin/module lainya, manfaatkan package/plugin/module yang sudah ada di package.json
 * pada komponen dialog, gunakan tag `<transition>`
 * baca komentar pada [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0) untuk informasi detail lainya
 
